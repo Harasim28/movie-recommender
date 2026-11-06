@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+data/*.zip
+data/ml-*/
+!data/download_movielens.py
+models/
+.env
